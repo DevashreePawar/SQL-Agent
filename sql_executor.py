@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 sql_executor.py
 ===============
